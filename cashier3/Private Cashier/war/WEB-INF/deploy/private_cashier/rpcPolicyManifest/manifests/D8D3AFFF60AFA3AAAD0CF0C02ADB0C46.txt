@@ -1,0 +1,2 @@
+serviceClass: com.cashier3.client.services.LoginService
+path: 403A462DD1B2E276B521943A530A8995.gwt.rpc

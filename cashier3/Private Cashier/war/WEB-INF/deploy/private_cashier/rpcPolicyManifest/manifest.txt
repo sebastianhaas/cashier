@@ -1,0 +1,6 @@
+# Module private_cashier
+# RPC service class, partial path of RPC policy file
+com.cashier3.client.services.AddTransactionService, 711AE701E715172F13BA4CF3A169E8F0.gwt.rpc
+com.cashier3.client.services.ListTransactionsService, 211FD6A8E33D1B3CC2D28CD6C60AC678.gwt.rpc
+com.cashier3.client.services.AddUserService, 97843A216CF8E7ED63B3C56C7BE805FA.gwt.rpc
+com.cashier3.client.services.LoginService, 403A462DD1B2E276B521943A530A8995.gwt.rpc

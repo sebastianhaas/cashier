@@ -1,0 +1,2 @@
+serviceClass: com.cashier3.client.services.ListTransactionsService
+path: 211FD6A8E33D1B3CC2D28CD6C60AC678.gwt.rpc

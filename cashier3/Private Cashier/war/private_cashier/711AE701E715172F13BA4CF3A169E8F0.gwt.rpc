@@ -1,0 +1,17 @@
+com.cashier3.client.services.AddTransactionService, false, false, false, false, _, 898572698
+com.cashier3.client.services.AddTransactionService$InsertionResult, true, true, false, false, com.cashier3.client.services.AddTransactionService$InsertionResult/2314398816, 2314398816
+com.cashier3.shared.Transaction, false, false, true, true, com.cashier3.shared.Transaction/3220782116, 3220782116
+com.google.gwt.i18n.client.impl.DateRecord, false, false, true, true, com.google.gwt.i18n.client.impl.DateRecord/3220471373, 3220471373
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.IllegalArgumentException, true, true, false, false, java.lang.IllegalArgumentException/1755012560, 1755012560
+java.lang.NumberFormatException, true, true, false, false, java.lang.NumberFormatException/3305228476, 3305228476
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.sql.Date, false, false, true, true, java.sql.Date/730999118, 730999118
+java.sql.Time, false, false, true, true, java.sql.Time/1816797103, 1816797103
+java.sql.Timestamp, false, false, true, true, java.sql.Timestamp/3040052672, 3040052672
+java.util.Date, false, false, true, true, java.util.Date/3385151746, 3385151746

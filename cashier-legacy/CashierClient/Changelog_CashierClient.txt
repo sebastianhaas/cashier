@@ -1,0 +1,44 @@
+--
+-- CashierClient
+-- release description of the build this changelog came with: 1.1c
+-- written by Sebastian Haas
+-- last edited: 09/21/2009
+--
+
+
+--
+-- 1.0    -> First stable release, all basic functions implemented such as building up connection to a				->	released on 09/21/2009
+--     	     remote CashierServer by the use of a .config file which must be compiled by the particular
+--			 CashierServer using the "-c" parameter. Furthermore there is prime support for validating
+--			 and inspecting user input. It is possible to transfer data sets to the connected remote
+--			 CashierServer as well as there is a thread running in the background of the application
+--           which checks the availability of the connection to the CashierServer in a predefined
+--           interval. If the connection is lost, the application freezes the graphical user interface,
+--			 so that there is no opportunity provided for the user, to use the CashierClient without a
+--			 valid connection to a CashierServer instance.
+--
+
+
+
+--
+-- 1.1	  -> *CashierClient now can handle the error which occurs if the connection to the CashierServer            ->    released on 09/21/2009
+--			  gets lost between two check intervals of the connection-check daemon, and the user is trying
+--			  to submit a new data set to the server.
+--		     *CashierClient shows a warning message box if the user tries to transmit a purchasing at 0€.
+--
+
+
+
+--
+-- 1.1c   -> *BUG FIXED: CashierClient was not able to display a correct result after a transmission if the			->	released on 09/21/2009
+--			  selected store is already contained in the local stores list.
+--			 *If the connection-check daemon detects that the connection is broken, not only the graphical
+--			  user interface gets frozen, but also the input fields are cleared. (Except for the user id
+--			  input field.
+--  
+
+
+
+--
+-- 1.1c is currently the latest build of CashierClient Monday, 21st of September 2009 19:30
+--

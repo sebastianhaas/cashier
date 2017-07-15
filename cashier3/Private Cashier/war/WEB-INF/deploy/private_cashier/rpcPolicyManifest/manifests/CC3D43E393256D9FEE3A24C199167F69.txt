@@ -1,0 +1,2 @@
+serviceClass: com.cashier3.client.services.AddUserService
+path: 97843A216CF8E7ED63B3C56C7BE805FA.gwt.rpc
